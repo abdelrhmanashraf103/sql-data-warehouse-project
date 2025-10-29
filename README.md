@@ -98,9 +98,7 @@ Hi there! I'm Abdelrahman Haroun.
 Experienced Data Analyst with 2+ years at Samsung, specializing in transforming complex data into actionable insights. 
 Passionate about leveraging analytics to drive business decisions and optimize performance across various domains.
 
-## 📞 Stay Connected
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
 ## 📞 Stay Connected
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
