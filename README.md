@@ -68,26 +68,30 @@ These insights empower stakeholders with key business metrics, enabling strategi
 For more details, refer to `docs/requirements.md`.
 
 ## 📂 Repository Structure
-data-warehouse-project/
-├── 📁 datasets/ # 📊 Raw datasets used for the project (ERP and CRM data)
-├── 📁 docs/ # 📖 Project documentation and architecture details
-│ ├── 📄 etl.drawio # ⚙️ ETL techniques and methods diagram
-│ ├── 📄 data_architecture.drawio # 🏗️ Project architecture diagram
-│ ├── 📄 data_catalog.md # 📋 Catalog of datasets, including field descriptions and metadata
-│ ├── 📄 data_flow.drawio # 🔄 Data flow diagram
-│ ├── 📄 data_models.drawio # 📊 Data models (star schema) diagram
-│ └── 📄 naming-conventions.md # 🔤 Consistent naming guidelines for tables, columns, and files
-├── 📁 scripts/ # 🛠️ SQL scripts for ETL and transformations
-│ ├── 📁 bronze/ # 🥉 Scripts for extracting and loading raw data
-│ ├── 📁 silver/ # 🥈 Scripts for cleaning and transforming data
-│ └── 📁 gold/ # 🥇 Scripts for creating analytical models
-├── 📁 tests/ # ✅ Test scripts and quality files
-├── 📄 README.md # 📝 Project overview and instructions
-├── 📄 LICENSE # ⚖️ License information for the repository
-├── 📄 .gitignore # 🙈 Files and directories to be ignored by Git
-└── 📄 requirements.txt # 📦 Dependencies and requirements for the project
 
-
+📂 data-warehouse-project/
+│
+├── 📁 datasets/                        # Raw datasets used for the project (ERP and CRM data)
+│
+├── 📁 docs/                            # Project documentation and architecture details
+│   ├── 📄 etl.drawio                   # ETL techniques and methods diagram
+│   ├── 📄 data_architecture.drawio     # Project architecture diagram  
+│   ├── 📄 data_catalog.md              # Catalog of datasets, including field descriptions and metadata
+│   ├── 📄 data_flow.drawio             # Data flow diagram
+│   ├── 📄 data_models.drawio           # Data models (star schema) diagram
+│   └── 📄 naming-conventions.md        # Consistent naming guidelines for tables, columns, and files
+│
+├── 📁 scripts/                         # SQL scripts for ETL and transformations
+│   ├── 📁 bronze/                      # Scripts for extracting and loading raw data
+│   ├── 📁 silver/                      # Scripts for cleaning and transforming data
+│   └── 📁 gold/                        # Scripts for creating analytical models
+│
+├── 📁 tests/                           # Test scripts and quality files
+│
+├── 📄 README.md                        # Project overview and instructions
+├── 📄 LICENSE                          # License information for the repository
+├── 📄 .gitignore                       # Files and directories to be ignored by Git
+└── 📄 requirements.txt                 # Dependencies and requirements for the project
 ## 👨‍💻 About Me
 
 Hi there! I'm Abdelrahman Haroun.
@@ -97,7 +101,21 @@ Passionate about leveraging analytics to drive business decisions and optimize p
 ## 📞 Stay Connected
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+## 📞 Stay Connected
 
-- [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/abdelrhman-haroun-455aa930a/)
-- [Portfolio]([https://example.com](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
-- [Notion Project]([https://example.com](https://faint-pewter-80a.notion.site/Data-Warehouse-Project-299ce363138780299279e9ba193f5cdd)
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdelrhman-haroun-455aa930a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://faint-pewter-80a.notion.site/Data-Warehouse-Project-299ce363138780299279e9ba193f5cdd">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Project"/>
+  </a>
+  <a href="https://github.com/abdelrhmanashraf103">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
