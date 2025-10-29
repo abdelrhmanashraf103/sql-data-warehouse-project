@@ -110,17 +110,17 @@ Passionate about leveraging analytics to drive business decisions and optimize p
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdelrhman-haroun-455aa930a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target='_blank' alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/abdelrhman-haroun-455aa930a/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" target='_blank' alt="Portfolio"/>
+  <a href="https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://faint-pewter-80a.notion.site/Data-Warehouse-Project-299ce363138780299279e9ba193f5cdd">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target='_blank' alt="Notion Project"/>
+  <a href="https://faint-pewter-80a.notion.site/Data-Warehouse-Project-299ce363138780299279e9ba193f5cdd" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Project"/>
   </a>
-  <a href="https://github.com/abdelrhmanashraf103">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target='_blank' alt="GitHub"/>
+  <a href="https://github.com/abdelrhmanashraf103" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
