@@ -5,7 +5,9 @@ Welcome to the Data Warehouse and Analytics Project repository! This project dem
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+
 ![Data Architecture](https://github.com/abdelrhmanashraf103/sql-data-warehouse-project/blob/master/sql-datawarehouse-project/docs/data_architecture.png)
+
 - **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 - **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 - **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
@@ -69,34 +71,34 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 📂 data-warehouse-project/
 │
-├── 📁 datasets/                        # Raw datasets used for the project (ERP and CRM data)
+├── 📁 datasets/ # Raw datasets used for the project (ERP and CRM data)
 │
-├── 📁 docs/                            # Project documentation and architecture details
-│   ├── 📄 etl.drawio                   # ETL techniques and methods diagram
-│   ├── 📄 data_architecture.drawio     # Project architecture diagram  
-│   ├── 📄 data_catalog.md              # Catalog of datasets, including field descriptions and metadata
-│   ├── 📄 data_flow.drawio             # Data flow diagram
-│   ├── 📄 data_models.drawio           # Data models (star schema) diagram
-│   └── 📄 naming-conventions.md        # Consistent naming guidelines for tables, columns, and files
+├── 📁 docs/ # Project documentation and architecture details
+│ ├── 📄 etl.drawio # ETL techniques and methods diagram
+│ ├── 📄 data_architecture.drawio # Project architecture diagram
+│ ├── 📄 data_catalog.md # Catalog of datasets, including field descriptions and metadata
+│ ├── 📄 data_flow.drawio # Data flow diagram
+│ ├── 📄 data_models.drawio # Data models (star schema) diagram
+│ └── 📄 naming-conventions.md # Consistent naming guidelines for tables, columns, and files
 │
-├── 📁 scripts/                         # SQL scripts for ETL and transformations
-│   ├── 📁 bronze/                      # Scripts for extracting and loading raw data
-│   ├── 📁 silver/                      # Scripts for cleaning and transforming data
-│   └── 📁 gold/                        # Scripts for creating analytical models
+├── 📁 scripts/ # SQL scripts for ETL and transformations
+│ ├── 📁 bronze/ # Scripts for extracting and loading raw data
+│ ├── 📁 silver/ # Scripts for cleaning and transforming data
+│ └── 📁 gold/ # Scripts for creating analytical models
 │
-├── 📁 tests/                           # Test scripts and quality files
+├── 📁 tests/ # Test scripts and quality files
 │
-├── 📄 README.md                        # Project overview and instructions
-├── 📄 LICENSE                          # License information for the repository
-├── 📄 .gitignore                       # Files and directories to be ignored by Git
-└── 📄 requirements.txt                 # Dependencies and requirements for the project
+├── 📄 README.md # Project overview and instructions
+├── 📄 LICENSE # License information for the repository
+├── 📄 .gitignore # Files and directories to be ignored by Git
+└── 📄 requirements.txt # Dependencies and requirements for the project
+
 
 ## 👨‍💻 About Me
 
 Hi there! I'm Abdelrahman Haroun.
 Experienced Data Analyst with 2+ years at Samsung, specializing in transforming complex data into actionable insights. 
 Passionate about leveraging analytics to drive business decisions and optimize performance across various domains.
-
 
 ## 📞 Stay Connected
 
@@ -116,3 +118,5 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+---
